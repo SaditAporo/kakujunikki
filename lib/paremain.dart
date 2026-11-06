@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'benrikansu.dart';
-import 'Pareset.dart';
+import 'pareset.dart';
 import 'package:lottie/lottie.dart';
 import 'dart:math' as math;
 import 'parechatitiran.dart';
